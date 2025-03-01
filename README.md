@@ -9,7 +9,12 @@ ________________________________________
 Detailed Analysis: Each report provides in-depth insights into various aspects of sales performance. Visual Representation: Easy-to-understand graphs and charts for quick comprehension. Actionable Insights: Helps in making data-driven business decisions.
 ________________________________________
 ### Technical Skills:🧩
-ETL Methodology: Ensured data integrity by handling missing values, duplicates, and spelling errors while loading CSV files into Power Query before integrating them into Power Pivot. Data Modeling: Connected all tables using a Star Schema and crafted a dynamic dim_date table for comprehensive time analysis, including fiscal Year cycle. Pivot Table and Power Pivot: Integrated the data model with Pivot Table for quick data analysis, utilizing Power Pivot for creating Custom Measures and Columns, and optimizing data transformation via Power Query. DAX (Data Analysis Expressions): Generated over 10 insightful measures, including Net Sales, Gross Margin, and COGS (Cost Of Goods Sold), along with extracting quarterly insights aligned with the fiscal year. Conditional Formatting: Applied Conditional Formatting techniques to enhance data presentation, showcasing trend identification.
+- Proficiency in ETL methodology (Extract, Transform, Load).
+- Skills to generate a date table using Power Query.
+- Ability to derive fiscal months and quarters.
+- Establishing data model relationships with Power Pivot.
+- Proficiency in incorporating supplementary data into an existing data model.
+- Utilizing DAX to create calculated columns.
 ________________________________________
 ### Soft Skills:🌟
 Refined understanding of Sales & Finance Reports. Designing user-centric reports with empathy in mind. Optimization of report generation through meticulous fine-tuning. Developing a systematic approach to devising a report building plan. Proficiency in incorporating supplementary data into an existing data model. Utilizing DAX to create calculated columns.
