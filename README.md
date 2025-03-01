@@ -26,16 +26,16 @@ ________________________________________
  
 * [Customer Net Sales Performance](https://github.com/Vennila-Vani/Excel/blob/main/Customer%20Performance%20Report.pdf)<br> 
 *	[Market Performance vs Target](https://github.com/Vennila-Vani/Excel/blob/main/Market%20Performance%20vs%20Target.pdf)<br>
-*	[Top 10 Products (as per % increase in sales)]()<br>
+*	[Top 10 Products (as per % increase in sales)](https://github.com/Vennila-Vani/Excel/blob/main/Top%2010%20produts.pdf)<br>
 *	[Division Level Report](https://github.com/Vennila-Vani/Excel/blob/main/Division%20Level.pdf)<br>
-*	[Top 5 and Bottom 5 Products as per Quantity]()<br>
+*	[Top 5 and Bottom 5 Products as per Quantity](https://github.com/Vennila-Vani/Excel/blob/main/Top%20and%20Bottom%205%20products.pdf)<br>
 *	[New Products launched in 2021](https://github.com/Vennila-Vani/Excel/blob/main/New%20Products%202021.pdf)<br>
-*	[Top 5 countries by Net Sales]()<br>
+*	[Top 5 countries by Net Sales](https://github.com/Vennila-Vani/Excel/blob/main/Top%205%20Countries.pdf)<br>
 ________________________________________
 ## Finance Analytics Report:📑
 
-*	[P & L Report By Fiscal Years]()<br>
-*	[P & L Report By Fiscal Months and Quarters]()<br>
-*	[P & L Report For Markets for FY 2021]()<br>
+*	[P & L Report By Fiscal Years](https://github.com/Vennila-Vani/Excel/blob/main/P%26L%20by%20year.pdf)<br>
+*	[P & L Report By Fiscal Months and Quarters](https://github.com/Vennila-Vani/Excel/blob/main/P%26L%20Months.pdf)<br>
+*	[P & L Report For Markets for FY 2021](https://github.com/Vennila-Vani/Excel/blob/main/P%26L%20for%20markets.pdf)<br>
 *	[GM% By Quarters (subzone)](https://github.com/Vennila-Vani/Excel/blob/main/Gross%20Margin%20%25.pdf)
 <br>
