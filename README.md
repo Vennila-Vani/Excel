@@ -22,4 +22,20 @@ ________________________________________
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
 ________________________________________
-### Valuable Insights:💡
+### Sales Analytics Report:📊
+ 
+*	Customer Net Sales Performance<br>
+*	Market Performance vs Target<br>
+*	Top 10 Products (as per % increase in sales<br>
+*	Division Level Report<br>
+*	Top 5 and Bottom 5 Products as per Quantity<br>
+*	New Products launched in 2021<br>
+*	Top 5 countries by Net Sales<br>
+________________________________________
+## Finance Analytics Report:📑
+
+*	P & L Report By Fiscal Years<br>
+*	P & L Report By Fiscal Months and Quarters<br>
+*	P & L Report For Markets for FY 2021<br>
+*	GM% By Quarters (subzone)
+<br>
