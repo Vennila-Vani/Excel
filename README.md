@@ -24,7 +24,7 @@ ________________________________________
 ________________________________________
 ### Sales Analytics Report:📊
  
-*	Customer Net Sales Performance<br>
+* [Customer Net Sales Performance](https://github.com/Vennila-Vani/Excel/blob/main/Customer%20Performance%20Report.pdf)<br> 
 *	Market Performance vs Target<br>
 *	Top 10 Products (as per % increase in sales<br>
 *	Division Level Report<br>
