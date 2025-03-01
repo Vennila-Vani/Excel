@@ -25,17 +25,17 @@ ________________________________________
 ### Sales Analytics Report:📊
  
 * [Customer Net Sales Performance](https://github.com/Vennila-Vani/Excel/blob/main/Customer%20Performance%20Report.pdf)<br> 
-*	Market Performance vs Target<br>
-*	Top 10 Products (as per % increase in sales<br>
-*	Division Level Report<br>
-*	Top 5 and Bottom 5 Products as per Quantity<br>
-*	New Products launched in 2021<br>
-*	Top 5 countries by Net Sales<br>
+*	[Market Performance vs Target](https://github.com/Vennila-Vani/Excel/blob/main/Market%20Performance%20vs%20Target.pdf)<br>
+*	[Top 10 Products (as per % increase in sales)]()<br>
+*	[Division Level Report](https://github.com/Vennila-Vani/Excel/blob/main/Division%20Level.pdf)<br>
+*	[Top 5 and Bottom 5 Products as per Quantity]()<br>
+*	[New Products launched in 2021](https://github.com/Vennila-Vani/Excel/blob/main/New%20Products%202021.pdf)<br>
+*	[Top 5 countries by Net Sales]()<br>
 ________________________________________
 ## Finance Analytics Report:📑
 
-*	P & L Report By Fiscal Years<br>
-*	P & L Report By Fiscal Months and Quarters<br>
-*	P & L Report For Markets for FY 2021<br>
-*	GM% By Quarters (subzone)
+*	[P & L Report By Fiscal Years]()<br>
+*	[P & L Report By Fiscal Months and Quarters]()<br>
+*	[P & L Report For Markets for FY 2021]()<br>
+*	[GM% By Quarters (subzone)](https://github.com/Vennila-Vani/Excel/blob/main/Gross%20Margin%20%25.pdf)
 <br>
