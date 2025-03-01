@@ -1,6 +1,6 @@
 # Excel ⚡
 ## Sales and Finance Analysis Report:💰📊
-    Create a Comprehensive Sales Analysis Report: Analyze sales data to generate actionable insights. Compare performance across different metrics and dimensions. Empower Business Decisions: Identify key sales patterns and trends. Facilitate strategic decisions with detailed performance metrics.
+  Create a Comprehensive Sales Analysis Report: Analyze sales data to generate actionable insights. Compare performance across different metrics and dimensions. Empower Business Decisions: Identify key sales patterns and trends. Facilitate strategic decisions with detailed performance metrics.
 ________________________________________
 ### 🚀 Purpose
 Sales Analytics: Enable businesses to monitor and evaluate their sales activities and performance. Data-Driven Decisions: Leverage sales data to identify patterns and track key performance indicators (KPIs). Strategic Insights: Help in determining effective customer discounts, negotiating with consumers, and identifying expansion opportunities.
