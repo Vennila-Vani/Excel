@@ -1,2 +1,2 @@
 # Excel
-# 💰📊📈 Sales and Finance Analysis Report
+# 💰📊 Sales and Finance Analysis Report
